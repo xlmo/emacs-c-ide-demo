@@ -51,6 +51,7 @@
 ;; (require 'setup-ggtags)
 (require 'setup-cedet)
 (require 'setup-editing)
+(require 'setup-my)
 
 (windmove-default-keybindings)
 
